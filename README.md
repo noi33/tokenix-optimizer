@@ -1,6 +1,6 @@
 # Tokenix Optimizer
 
-![Tokenix Optimizer](preview.png)
+![Tokenix Optimizer](hff.png)
 
 Simple and real Windows PC Optimizer made in Python.
 
