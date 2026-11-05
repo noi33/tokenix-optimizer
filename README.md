@@ -1,5 +1,7 @@
 # Tokenix Optimizer
+
 ![Tokenix Optimizer](preview.png)
+
 Simple and real Windows PC Optimizer made in Python.
 
 ### Features
@@ -20,7 +22,9 @@ Simple and real Windows PC Optimizer made in Python.
 - **Quick Optimize** (one-click safe clean)
 
 ### How to use
-Just download `TokenixOptimizer.exe` and run it.
+1. Download `TokenixOptimizer.exe`
+2. Double-click it
+3. Done
 
 No Python needed.
 
